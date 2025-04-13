@@ -1,0 +1,14 @@
+Pattern,Real Count,Random Avg Count,Random Std Count,Z-Score,Type
+subgraph_1,433,891.29,18.40,-24.91,Anti-Motif
+subgraph_2,663,1786.88,36.95,-30.41,Anti-Motif
+subgraph_3,210,126.71,16.75,4.97,Motif
+subgraph_4,322,893.97,18.62,-30.71,Anti-Motif
+subgraph_5,99,124.28,5.50,-4.59,Anti-Motif
+subgraph_6,20,3.96,0.98,16.38,Motif
+subgraph_7,169,127.20,16.91,2.47,Motif
+subgraph_8,27,3.96,1.41,16.38,Motif
+subgraph_9,23,41.37,3.11,-5.91,Anti-Motif
+subgraph_10,21,8.45,1.54,8.16,Motif
+subgraph_11,11,4.05,1.03,6.73,Motif
+subgraph_12,7,0.18,0.38,17.75,Motif
+subgraph_13,0,0.00,0.00,0.00,Normal
